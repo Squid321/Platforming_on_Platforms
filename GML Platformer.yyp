@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"Spr_PlayerIdleRight","path":"sprites/Spr_PlayerIdleRight/Spr_PlayerIdleRight.yy",},"order":7,},
     {"id":{"name":"Spr_PlayerJumpLeft","path":"sprites/Spr_PlayerJumpLeft/Spr_PlayerJumpLeft.yy",},"order":6,},
+    {"id":{"name":"Spr_Cloud","path":"sprites/Spr_Cloud/Spr_Cloud.yy",},"order":12,},
     {"id":{"name":"Obj_Wall","path":"objects/Obj_Wall/Obj_Wall.yy",},"order":1,},
     {"id":{"name":"Til_Walls","path":"tilesets/Til_Walls/Til_Walls.yy",},"order":0,},
     {"id":{"name":"Spr_PlayerIdleLeft","path":"sprites/Spr_PlayerIdleLeft/Spr_PlayerIdleLeft.yy",},"order":8,},
@@ -16,6 +17,7 @@
     {"id":{"name":"Spr_PlayerWalkRight","path":"sprites/Spr_PlayerWalkRight/Spr_PlayerWalkRight.yy",},"order":4,},
     {"id":{"name":"Spr_PlayerWalkLeft","path":"sprites/Spr_PlayerWalkLeft/Spr_PlayerWalkLeft.yy",},"order":5,},
     {"id":{"name":"Spr_InvisibleWall","path":"sprites/Spr_InvisibleWall/Spr_InvisibleWall.yy",},"order":0,},
+    {"id":{"name":"Spr_Grain","path":"sprites/Spr_Grain/Spr_Grain.yy",},"order":10,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -56,7 +58,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy","order":3,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy","order":8,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Sprites/Timelines.yy","order":11,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
